@@ -29,4 +29,6 @@ def string_to_binary(string):
 	print(total_binary)
 
 
-string_to_binary('Khalid Al Shuaib')
+string_to_binary('Marjahan')
+
+#test commit
